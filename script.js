@@ -1,8 +1,8 @@
 function adicionarUsuario(username, email) {
-    var githubToken = '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';
+    var githubToken = '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';
     var owner = 'Gustavo';
     var repo = 'criar';
-    var filePath = 'usuarios.json';
+    var filePath = 'usuários.json';
 
     // Construa a URL da API do GitHub para o arquivo específico
     var apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`;
