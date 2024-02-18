@@ -38,7 +38,7 @@ function adicionarUsuario(username, email) {
                 headers: {
                     'Authorization': 'token ' + githubToken,
                     'Content-Type': 'application/json',
-                    'User-Agent': 'Nome de usuário no GitHub'
+                    'User-Agent': 'ghosthszz'
                 },
                 body: JSON.stringify({
                     message: 'Adicionando novo usuário',
