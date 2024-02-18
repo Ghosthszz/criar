@@ -12,7 +12,7 @@ function adicionarUsuario(username, email) {
         method: 'GET',
         headers: {
             'Authorization': 'token ' + githubToken,
-            'User-Agent': 'Ghosthszz'
+            'User-Agent': 'ghosthszz'
         }
     };
 
