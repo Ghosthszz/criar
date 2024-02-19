@@ -1,2 +1,2 @@
-
-                    { usu·rio: "blk", senha: "ds" };
+const  usu√°rios  =  [
+  ] ;
