@@ -1,2 +1,4 @@
 const  usu√°rios  =  [
-  ] ;
+  ,
+    {"usu·rio":"teste","senha":"opa"}
+];
