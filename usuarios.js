@@ -1,9 +1,14 @@
-const  usuÃƒÂ¡rios  =  [
+const  usuÃƒÆ’Ã‚Â¡rios  =  [
   
 ,
-    { usuÃ¡rio: "opa", senha: "blk" }
+    { usuÃƒÂ¡rio: "opa", senha: "blk" }
 ,
-    { usuário: "teste1", senha: "opa" },
+    { usuÃ¡rio: "teste1", senha: "opa" },
 ,
-    {  usu�rio : "xs" , senha: "xs"  } ,
+    {  usuário : "xs" , senha: "xs"  } ,
 ];
+
+function verificarCredenciais(usuário, senha) {
+    const foundUser = usuários.find(u => u.usuário === usuário && u.senha === senha);
+    return foundUser || null;
+}
