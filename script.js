@@ -1,63 +1,50 @@
-function adicionarUsuario(username, email) {
-    var githubToken = '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';
-    var owner = 'Gustavo';
-    var repo = 'criar';
-    var filePath = 'usuários.json';
+const { Octokit } = require('@octokit/rest');
 
-    // Construa a URL da API do GitHub para o arquivo específico
-    var apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`;
+async function adicionarUsuario(username, email) {
+    const octokit = new Octokit({
+        auth: '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'
+    });
 
-    // Configuração da requisição para obter o conteúdo do arquivo
-    var requestOptions = {
-        method: 'GET',
-        headers: {
-            'Authorization': 'token ' + githubToken,
-            'User-Agent': 'Ghosthszz'
-        }
-    };
+    const owner = 'Gustavo';
+    const repo = 'criar';
+    const filePath = 'usuarios.json';
 
-    // Faça uma requisição GET para obter o conteúdo atual do arquivo
-    fetch(apiUrl, requestOptions)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Erro ao obter conteúdo do arquivo');
+    try {
+        // Obter conteúdo atual do arquivo
+        const { data } = await octokit.request('GET /repos/{owner}/{repo}/contents/{path}', {
+            owner,
+            repo,
+            path: filePath,
+            headers: {
+                'X-GitHub-Api-Version': '2022-11-28'
             }
-            return response.json();
-        })
-        .then(data => {
-            // Decodifique o conteúdo do arquivo
-            var fileContent = window.atob(data.content);
-            // Converta o conteúdo em um objeto JavaScript
-            var users = JSON.parse(fileContent);
-            // Adicione o novo usuário
-            users.push({ username: username, email: email });
-
-            // Configuração da requisição para atualizar o arquivo
-            var updateOptions = {
-                method: 'PUT',
-                headers: {
-                    'Authorization': 'token ' + githubToken,
-                    'Content-Type': 'application/json',
-                    'User-Agent': 'Ghosthszz'
-                },
-                body: JSON.stringify({
-                    message: 'Adicionando novo usuário',
-                    content: window.btoa(JSON.stringify(users)),
-                    sha: data.sha
-                })
-            };
-
-            // Faça uma requisição PUT para atualizar o arquivo
-            return fetch(apiUrl, updateOptions);
-        })
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Erro ao atualizar arquivo');
-            }
-            alert('Usuário adicionado com sucesso!');
-        })
-        .catch(error => {
-            console.error(error);
-            alert('Erro ao adicionar usuário');
         });
+
+        // Decodificar conteúdo do arquivo
+        const fileContent = Buffer.from(data.content, 'base64').toString();
+        const users = JSON.parse(fileContent);
+
+        // Adicionar novo usuário
+        users.push({ username, email });
+
+        // Atualizar arquivo
+        await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
+            owner,
+            repo,
+            path: filePath,
+            message: 'Adicionando novo usuário',
+            content: Buffer.from(JSON.stringify(users)).toString('base64'),
+            sha: data.sha,
+            headers: {
+                'X-GitHub-Api-Version': '2022-11-28'
+            }
+        });
+
+        console.log('Usuário adicionado com sucesso!');
+    } catch (error) {
+        console.error('Erro ao adicionar usuário:', error);
+    }
 }
+
+// Exemplo de uso:
+adicionarUsuario('novoUsuario', 'novoUsuario@example.com');
