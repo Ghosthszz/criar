@@ -78,9 +78,9 @@ button:focus {
             <button type="submit">Cadastrar</button>
         </form>
     </div>
-
+<script src="https://cdn.jsdelivr.net/npm/@octokit/core@latest/dist/index.js"></script>
     <script>
-        const { Octokit } = require('@octokit/rest');
+const octokit = new Octokit({ auth: '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' });
 
 async function adicionarUsuario(username, email) {
     const octokit = new Octokit({
