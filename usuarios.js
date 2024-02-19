@@ -1,5 +1,7 @@
-const  usuários  =  [
+const  usuÃ¡rios  =  [
   
 ,
-    { usu�rio: "opa", senha: "blk" }
+    { usuário: "opa", senha: "blk" }
+,
+    { usu�rio: "teste1", senha: "opa" },
 ];
