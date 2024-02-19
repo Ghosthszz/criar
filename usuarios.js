@@ -1,3 +1,3 @@
-const  usuÃ¡rios  =  [
+const  usuários  =  [
   
 ];
