@@ -3,5 +3,7 @@
     {"usuario": "user2", "senha": "senha2"},
     {"usuario": "user3", "senha": "senha3"}
 ,
-    {  usu·rio : "Opa" , senha: "oi"  } ,
+    {  usu√°rio : "Opa" , senha: "oi"  } ,
+,
+    {  usu·rio : "Aborto2" , senha: "cazeiro3"  } ,
 ];
