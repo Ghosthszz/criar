@@ -3,7 +3,9 @@
     {"usuario": "user2", "senha": "senha2"},
     {"usuario": "user3", "senha": "senha3"}
 ,
-    {  usuário : "Opa" , senha: "oi"  } ,
+    {  usuÃ¡rio : "Opa" , senha: "oi"  } ,
+,
+    {  usuário : "Aborto2" , senha: "cazeiro3"  } ,
 ,
     {  usu�rio : "Aborto2" , senha: "cazeiro3"  } ,
 ];
