@@ -1,0 +1,44 @@
+[
+    {
+        "email": "Leonardo",
+        "password": "blk",
+        "redirectUrl": "frontend/paginas/users/Leonardo.html",
+        "active": true,
+        "cookieValue": "permission=Leonardo"
+    },
+    {
+        "email": "Gustavo",
+        "password": "Nathalia260576",
+        "redirectUrl": "frontend/paginas/VIP/ghosthszz.html",
+        "active": true,
+        "cookieValue": "permission=ghosthszz"
+    },
+    {
+        "email": "Thiago",
+        "password": "dragao123",
+        "redirectUrl": "frontend/paginas/users/Thiago.html",
+        "active": true,
+        "cookieValue": "permission=thiago"
+    },
+    {
+        "email": "Cleiton",
+        "password": "0509",
+        "redirectUrl": "frontend/paginas/users/Cleiton.html",
+        "active": true,
+        "cookieValue": "permission=cleiton"
+    },
+    {
+        "email": "EXEMPLO_VIP",
+        "password": "VIP",
+        "redirectUrl": "frontend/paginas/exemplos/VIP.html",
+        "active": true,
+        "cookieValue": "permission=exemplo_vip"
+    },
+    {
+        "email": "EXEMPLO_NORMAL",
+        "password": "NORMAL",
+        "redirectUrl": "frontend/paginas/exemplos/NORMAL.html",
+        "active": true,
+        "cookieValue": "permission=exemplo_normal"
+    }
+]
