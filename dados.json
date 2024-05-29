@@ -41,4 +41,28 @@
         "active": true,
         "cookieValue": "permission=exemplo_normal"
     }
+            {
+            "id": "user_122436",
+            "email": "Gu",
+            "name": "Gustavo",
+            "password": "1601",
+            "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+            "active": true,
+            "cookieValue": "permission=gustavo",
+            "cupom": "ghosthszz10",
+            "expirationDate": "2024-07-01T00:00:00",
+            "id_links": ["1", "2", "5", "26"]
+        },
+        {
+            "id": "user_1202552",
+            "email": "Bia",
+            "name": "Beatriz",
+            "password": "1204",
+            "redirectUrl": "/Vendas/frontend/paginas/exemplos/acess.html",
+            "active": true,
+            "cookieValue": "permission=beatriz",
+            "cupom": "beatriz10",
+            "expirationDate": "2024-04-26T00:00:00",
+            "id_links": ["3"]
+        }
 ]
