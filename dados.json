@@ -58,7 +58,7 @@
             "email": "Bia",
             "name": "Beatriz",
             "password": "1204",
-            "redirectUrl": "/Vendas/frontend/paginas/exemplos/acess.html",
+            "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
             "active": true,
             "cookieValue": "permission=beatriz",
             "cupom": "beatriz10",
