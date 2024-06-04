@@ -47,7 +47,7 @@
             "name": "Gustavo",
             "password": "1601",
             "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-            "active": true,
+            "active": false,
             "cookieValue": "permission=gustavo",
             "cupom": "ghosthszz10",
             "expirationDate": "2024-07-01T00:00:00",
