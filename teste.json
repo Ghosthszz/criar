@@ -56,5 +56,21 @@
         "expirationDate": "2024-02-10T00:00:00",
         "id_links": "\"4\"",
         "saldo": "10,20"
+    },
+    {
+        "id": "user_1050z",
+        "email": "Nissan",
+        "name": "GTR",
+        "password": "gtt",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "gtr",
+        "cupom": "GTR",
+        "expirationDate": "2024-01-16T00:00:00",
+        "id_links": [
+            "1",
+            "3"
+        ],
+        "saldo": "0,00"
     }
 ]
