@@ -1,7 +1,7 @@
 [
     {
         "email": "Leonardo",
-        "password": "blk",
+        "password": "ant",
         "redirectUrl": "frontend/paginas/users/Leonardo.html",
         "active": true,
         "cookieValue": "permission=Leonardo"
@@ -52,7 +52,20 @@
             "cupom": "ghosthszz10",
             "expirationDate": "2024-07-01T00:00:00",
             "id_links": ["1", "2", "5", "26"],
-            "saldo": "10,00"
+            "saldo": "R$10,00"
+        },
+                {
+            "id": "user_104022",
+            "email": "Leonardo",
+            "name": "Léo",
+            "password": "blk",
+            "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+            "active": true,
+            "cookieValue": "permission=Leonardo",
+            "cupom": "NULL",
+            "expirationDate": "2024-05-01T00:00:00",
+            "id_links": ["ana", "6", "7", "am", "17", "dp", "2", "8", "26", "25", "27"],
+            "saldo": "0,00"
         },
         {
             "id": "user_1202552",
