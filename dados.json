@@ -137,5 +137,23 @@
         "expirationDate": "2008-01-16T00:00:00",
         "id_links": [],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_2024",
+        "email": "Gabi",
+        "name": "Gabriela",
+        "password": "lindona",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "gabriela",
+        "cupom": "NULL",
+        "expirationDate": "2000-01-16T00:00:00",
+        "id_links": [
+            "14",
+            "16",
+            "19",
+            "20"
+        ],
+        "saldo": "0,00"
     }
 ]
