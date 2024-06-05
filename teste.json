@@ -13,5 +13,20 @@
             "1"
         ],
         "saldo": "33,30"
+    },
+    {
+        "id": "101020",
+        "email": "blk@Vendas.com",
+        "name": "blk",
+        "password": "bbk",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "blk",
+        "cupom": "blk",
+        "expirationDate": "2024-01-16T00:00:00.000Z",
+        "id_links": [
+            "1"
+        ],
+        "saldo": "10,20"
     }
 ]
