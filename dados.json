@@ -57,7 +57,7 @@
                 {
             "id": "user_104022",
             "email": "Leonardo",
-            "name": "Leonardo",
+            "name": "Leo",
             "password": "blk",
             "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
             "active": true,
