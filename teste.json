@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "id": "1050",
+        "email": "Gustavo",
+        "name": "Gu",
+        "password": "Nathalia260576",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "nat",
+        "cupom": "NULL",
+        "expirationDate": "2024-01-16T00:00:00.000Z",
+        "id_links": [
+            "1"
+        ],
+        "saldo": "33,30"
+    }
+]
