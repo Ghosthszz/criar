@@ -115,5 +115,23 @@
             "ana"
         ],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_1026",
+        "email": "Anderson",
+        "name": "Anderson",
+        "password": "2605",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "anderson",
+        "cupom": "NULL",
+        "expirationDate": "2000-01-16T00:00:00",
+        "id_links": [
+            "19",
+            "23",
+            "25",
+            "dp"
+        ],
+        "saldo": "0,00"
     }
 ]
