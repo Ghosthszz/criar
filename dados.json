@@ -28,20 +28,6 @@
         "cookieValue": "permission=cleiton"
     },
     {
-        "email": "EXEMPLO_VIP",
-        "password": "VIP",
-        "redirectUrl": "frontend/paginas/exemplos/VIP.html",
-        "active": true,
-        "cookieValue": "permission=exemplo_vip"
-    },
-    {
-        "email": "EXEMPLO_NORMAL",
-        "password": "NORMAL",
-        "redirectUrl": "frontend/paginas/exemplos/NORMAL.html",
-        "active": true,
-        "cookieValue": "permission=exemplo_normal"
-    },
-    {
         "id": "user_122436",
         "email": "Gu",
         "name": "Gustavo",
@@ -108,33 +94,6 @@
         "cookieValue": "teste",
         "cupom": "NULL",
         "expirationDate": "2000-06-05T00:00:00",
-        "id_links": [],
-        "saldo": "0,00"
-    },
-    {
-        "id": "user_1040",
-        "usuario": "Tst",
-        "email": "Teste_registro",
-        "name": "Teste",
-        "password": "1234",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "teste",
-        "cupom": "NULL",
-        "expirationDate": "2000-06-05T00:00:00",
-        "id_links": [],
-        "saldo": "0,00"
-    },
-    {
-        "id": "user_1050z",
-        "email": "Gustavo",
-        "name": "Gustavo",
-        "password": "12345",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "gustavo",
-        "cupom": "NULL",
-        "expirationDate": "2008-01-16T00:00:00",
         "id_links": [],
         "saldo": "0,00"
     },
