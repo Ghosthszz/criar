@@ -93,6 +93,7 @@
         "active": true,
         "cookieValue": "permission=beatriz",
         "cupom": "beatriz10",
+        "status": "offline",
         "expirationDate": "2024-06-05T00:00:00",
         "id_links": [
             "fb"
