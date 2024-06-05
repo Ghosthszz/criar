@@ -41,43 +41,79 @@
         "active": true,
         "cookieValue": "permission=exemplo_normal"
     },
-            {
-            "id": "user_122436",
-            "email": "Gu",
-            "name": "Gustavo",
-            "password": "1601",
-            "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-            "active": true,
-            "cookieValue": "permission=gustavo",
-            "cupom": "ghosthszz10",
-            "expirationDate": "2024-07-01T00:00:00",
-            "id_links": ["1", "2", "5", "26"],
-            "saldo": "R$10,00"
-        },
-                {
-            "id": "user_104022",
-            "email": "Leonardo",
-            "name": "Leo",
-            "password": "blk",
-            "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-            "active": true,
-            "cookieValue": "permission=Leonardo",
-            "cupom": "NULL",
-            "expirationDate": "2024-05-01T00:00:00",
-            "id_links": ["ana", "6", "7", "am", "17", "dp", "2", "8", "26", "25", "27"],
-            "saldo": "0,00"
-        },
-   
-        {
-            "id": "user_1202552",
-            "email": "Bia",
-            "name": "Beatriz",
-            "password": "1204",
-            "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-            "active": true,
-            "cookieValue": "permission=beatriz",
-            "cupom": "beatriz10",
-            "expirationDate": "2024-06-05T00:00:00",
-            "id_links": ["fb"]
-        }
+    {
+        "id": "user_122436",
+        "email": "Gu",
+        "name": "Gustavo",
+        "password": "1601",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "permission=gustavo",
+        "cupom": "ghosthszz10",
+        "expirationDate": "2024-07-01T00:00:00",
+        "id_links": [
+            "1",
+            "2",
+            "5",
+            "26"
+        ],
+        "saldo": "R$10,00"
+    },
+    {
+        "id": "user_104022",
+        "email": "Leonardo",
+        "name": "Leo",
+        "password": "blk",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "permission=Leonardo",
+        "cupom": "NULL",
+        "expirationDate": "2024-05-01T00:00:00",
+        "id_links": [
+            "ana",
+            "6",
+            "7",
+            "am",
+            "17",
+            "dp",
+            "2",
+            "8",
+            "26",
+            "25",
+            "27"
+        ],
+        "saldo": "0,00"
+    },
+    {
+        "id": "user_1202552",
+        "email": "Bia",
+        "name": "Beatriz",
+        "password": "1204",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "permission=beatriz",
+        "cupom": "beatriz10",
+        "expirationDate": "2024-06-05T00:00:00",
+        "id_links": [
+            "fb"
+        ]
+    },
+    {
+        "id": "user_1050z",
+        "email": "Guilherme@Vendas.com",
+        "name": "Gui",
+        "password": "1050",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "guilherme",
+        "cupom": "Guilherme10",
+        "expirationDate": "2024-06-15T00:00:00",
+        "id_links": [
+            "1",
+            "13",
+            "27",
+            "ana"
+        ],
+        "saldo": "0,00"
+    }
 ]
