@@ -51,7 +51,8 @@
             "cookieValue": "permission=gustavo",
             "cupom": "ghosthszz10",
             "expirationDate": "2024-07-01T00:00:00",
-            "id_links": ["1", "2", "5", "26"]
+            "id_links": ["1", "2", "5", "26"],
+            "saldo": "10,00"
         },
         {
             "id": "user_1202552",
