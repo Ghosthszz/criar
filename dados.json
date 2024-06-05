@@ -124,5 +124,18 @@
         "expirationDate": "2000-06-05T00:00:00",
         "id_links": [],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_1050z",
+        "email": "Gustavo",
+        "name": "Gustavo",
+        "password": "12345",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "gustavo",
+        "cupom": "NULL",
+        "expirationDate": "2008-01-16T00:00:00",
+        "id_links": [],
+        "saldo": "0,00"
     }
 ]
