@@ -113,6 +113,7 @@
     },
     {
         "id": "user_1040",
+        "usuario": "Tst",
         "email": "Teste_registro",
         "name": "Teste",
         "password": "1234",
