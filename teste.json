@@ -43,5 +43,18 @@
             "1"
         ],
         "saldo": "10,00"
+    },
+    {
+        "id": "user_10202",
+        "email": "Thigas",
+        "name": "Thiago",
+        "password": "dragao",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "thiago",
+        "cupom": "1050z",
+        "expirationDate": "2024-02-10T00:00:00",
+        "id_links": "\"4\"",
+        "saldo": "10,20"
     }
 ]
