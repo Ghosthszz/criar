@@ -17,7 +17,7 @@
         "email": "Thiago",
         "password": "dragao123",
         "redirectUrl": "frontend/paginas/users/Thiago.html",
-        "active": true,
+        "active": false,
         "cookieValue": "permission=thiago"
     },
     {
