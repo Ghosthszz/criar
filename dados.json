@@ -97,5 +97,18 @@
         "id_links": [
             "fb"
         ]
+    },
+    {
+        "id": "user_1040",
+        "email": "Teste_registro",
+        "name": "Teste",
+        "password": "",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "teste",
+        "cupom": "NULL",
+        "expirationDate": "2000-06-05T00:00:00",
+        "id_links": [],
+        "saldo": "0,00"
     }
 ]
