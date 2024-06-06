@@ -114,5 +114,20 @@
             "20"
         ],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_2022",
+        "email": "Bola",
+        "name": "Gabriel",
+        "password": "1020",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "gabriel",
+        "cupom": "NULL",
+        "expirationDate": "2000-01-16T00:00:00",
+        "id_links": [
+            "ana"
+        ],
+        "saldo": "0,00"
     }
 ]
