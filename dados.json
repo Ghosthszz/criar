@@ -160,5 +160,22 @@
             "ana"
         ],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_10256",
+        "email": "Roberto",
+        "name": "Rob",
+        "password": "com",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "roberto",
+        "cupom": "Roberto10",
+        "expirationDate": "2024-07-06T00:00:00",
+        "id_links": [
+            "25",
+            "fb",
+            "ana"
+        ],
+        "saldo": "0,00"
     }
 ]
