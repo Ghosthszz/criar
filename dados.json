@@ -144,5 +144,21 @@
             "fb"
         ],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_10256",
+        "email": "cavalo",
+        "name": "Tangerina",
+        "password": "12345",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "tangerina",
+        "cupom": "NULL",
+        "expirationDate": "2000-01-16T00:00:00",
+        "id_links": [
+            "25",
+            "ana"
+        ],
+        "saldo": "0,00"
     }
 ]
