@@ -194,5 +194,20 @@
             "ana"
         ],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_132245",
+        "email": "Teste_sti",
+        "name": "Alex",
+        "password": "teste",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "sti",
+        "cupom": "NULL",
+        "expirationDate": "2000-01-16T00:00:00",
+        "id_links": [
+            "fb"
+        ],
+        "saldo": "0,00"
     }
 ]
