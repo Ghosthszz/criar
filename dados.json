@@ -51,7 +51,7 @@
         "name": "Leo",
         "password": "blk",
         "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": false,
+        "active": true,
         "cookieValue": "permission=Leonardo",
         "cupom": "NULL",
         "expirationDate": "2024-05-01T00:00:00",
