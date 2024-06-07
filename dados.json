@@ -83,5 +83,49 @@
         "id_links": [
             "fb"
         ]
+    },
+    {
+        "id": "user_10223",
+        "email": "Ghosthszz",
+        "name": "Gustavo",
+        "password": "Nathalia260576",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "gustavo",
+        "cupom": "Gustavo10",
+        "expirationDate": "2024-09-01T00:00:00",
+        "id_links": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "ana",
+            "am",
+            "dp"
+        ],
+        "saldo": "15,00"
     }
 ]
