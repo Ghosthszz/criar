@@ -127,5 +127,20 @@
             "dp"
         ],
         "saldo": "15,00"
+    },
+    {
+        "id": "user_1050z",
+        "email": "Teste",
+        "name": "Blk",
+        "password": "teste",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "teste",
+        "cupom": "NULL",
+        "expirationDate": "2021-03-13T00:00:00",
+        "id_links": [
+            "ana"
+        ],
+        "saldo": "1.000,00"
     }
 ]
