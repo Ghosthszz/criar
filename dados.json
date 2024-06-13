@@ -1,12 +1,5 @@
 [
   {
-    "email": "Leonardo",
-    "password": "1212",
-    "redirectUrl": "frontend/paginas/users/Leonardo.html",
-    "active": true,
-    "cookieValue": "permission=Leonardo"
-  },
-  {
     "email": "Gustavo",
     "password": "Nathalia260576",
     "redirectUrl": "frontend/paginas/VIP/ghosthszz.html",
