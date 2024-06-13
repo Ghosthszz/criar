@@ -150,5 +150,18 @@
         "expirationDate": "2024-06-06T00:00:00",
         "id_links": [],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_199",
+        "email": "Teste_live",
+        "name": "Frienda",
+        "password": "live",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "teste_live",
+        "cupom": "NULL",
+        "expirationDate": "2024-06-04T00:00:00",
+        "id_links": [],
+        "saldo": "1.000,00"
     }
 ]
