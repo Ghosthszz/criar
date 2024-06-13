@@ -1,7 +1,7 @@
 [
   {
     "email": "Leonardo",
-    "password": "ant",
+    "password": "1212",
     "redirectUrl": "frontend/paginas/users/Leonardo.html",
     "active": true,
     "cookieValue": "permission=Leonardo"
