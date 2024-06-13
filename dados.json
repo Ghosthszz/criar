@@ -69,7 +69,7 @@
     "id": "user_1202552",
     "email": "Bia",
     "name": "Beatriz",
-    "password": "1204",
+    "password": "Laura",
     "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
     "active": true,
     "cookieValue": "permission=beatriz",
