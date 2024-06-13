@@ -42,7 +42,7 @@
     "id": "user_104022",
     "email": "Leonardo",
     "name": "Leo",
-    "password": "1212",
+    "password": "blk",
     "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
     "active": true,
     "cookieValue": "permission=Leonardo",
