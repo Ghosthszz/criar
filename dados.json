@@ -36,7 +36,7 @@
       "5",
       "26"
     ],
-    "saldo": "R$10,00",
+    "saldo": "10.00",
     "status": "online"
   },
   {
@@ -62,7 +62,7 @@
       "25",
       "27"
     ],
-    "saldo": "0,00",
+    "saldo": "0.00",
     "status": "online"
   },
   {
@@ -77,7 +77,9 @@
     "expirationDate": "2024-06-05T00:00:00",
     "id_links": [
       "fb"
-    ]
+    ],
+    "saldo": "5.00",
+    "status": "online"
   },
   {
     "id": "user_10223",
@@ -121,47 +123,7 @@
       "am",
       "dp"
     ],
-    "saldo": "15,00"
-  },
-  {
-    "id": "user_1050z",
-    "email": "Teste",
-    "name": "Blk",
-    "password": "1212",
-    "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-    "active": true,
-    "cookieValue": "teste",
-    "cupom": "NULL",
-    "expirationDate": "2021-03-13T00:00:00",
-    "id_links": [
-      "ana"
-    ],
-    "saldo": "1.000,00"
-  },
-  {
-    "id": "user_104",
-    "email": "teste_104",
-    "name": "Opa_lalau",
-    "password": "laura",
-    "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-    "active": true,
-    "cookieValue": "NULL",
-    "cupom": "lalau",
-    "expirationDate": "2024-06-06T00:00:00",
-    "id_links": [],
-    "saldo": "0,00"
-  },
-  {
-    "id": "user_199",
-    "email": "Teste_live",
-    "name": "Frienda",
-    "password": "Netflix",
-    "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-    "active": true,
-    "cookieValue": "teste_live",
-    "cupom": "NULL",
-    "expirationDate": "2024-06-04T00:00:00",
-    "id_links": [],
-    "saldo": "1.000,00"
+    "saldo": "15.00",
+    "status": "online"
   }
 ]
