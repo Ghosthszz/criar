@@ -7,13 +7,6 @@
         "cookieValue": "permission=ghosthszz"
     },
     {
-        "email": "Thiago",
-        "password": "dragao123",
-        "redirectUrl": "frontend/paginas/users/Thiago.html",
-        "active": true,
-        "cookieValue": "permission=thiago"
-    },
-    {
         "email": "Cleiton",
         "password": "0509",
         "redirectUrl": "frontend/paginas/users/Cleiton.html",
