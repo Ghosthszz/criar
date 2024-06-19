@@ -242,47 +242,5 @@
             "32"
         ],
         "saldo": "25,00"
-    },
-    {
-        "id": "user_101256",
-        "email": "Sarinha",
-        "name": "Sarah",
-        "password": "estanislau",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "sarinha",
-        "cupom": "Sarah10",
-        "expirationDate": "2024-08-19T00:00:00",
-        "id_links": [
-            "27",
-            "28",
-            "29",
-            "30",
-            "31",
-            "32"
-        ],
-        "saldo": "25,00"
-    },
-    {
-        "id": "user_101256",
-        "email": "sara",
-        "name": "Sarah",
-        "password": "estanislau",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "sarinha",
-        "cupom": "Sarah10",
-        "expirationDate": "2024-08-19T00:00:00",
-        "id_links": [
-            "1",
-            "2",
-            "27",
-            "28",
-            "29",
-            "30",
-            "31",
-            "32"
-        ],
-        "saldo": "25,00"
     }
 ]
