@@ -359,5 +359,20 @@
             "fb"
         ],
         "saldo": "100,00"
+    },
+    {
+        "id": "user_00000",
+        "email": "TESTE",
+        "name": "DEMO 1",
+        "password": "1234",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "DEMO",
+        "cupom": "DEMO10",
+        "expirationDate": "3024-01-01T00:00:00",
+        "id_links": [
+            "fb"
+        ],
+        "saldo": "0,00"
     }
 ]
