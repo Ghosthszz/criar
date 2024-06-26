@@ -257,29 +257,6 @@
         "saldo": "25,00"
     },
     {
-        "id": "user_1012",
-        "email": "Chat",
-        "name": "Blk",
-        "password": "teste",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "chat",
-        "cupom": "NULL",
-        "expirationDate": "2008-01-16T00:00:00",
-        "id_links": [
-            "1",
-            "3",
-            "2",
-            "23",
-            "29",
-            "24"
-        ],
-        "saldo": "R$5,00",
-        "friends": [
-            "user_10223"
-        ]
-    },
-    {
         "id": "user_10000",
         "email": "Presente",
         "name": "Resgatar presente",
