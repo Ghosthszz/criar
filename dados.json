@@ -39,7 +39,7 @@
             "user_10223"
         ],
         "attempts": 3,
-        "blocked": true
+        "blocked": false
     },
     {
         "id": "user_104022",
@@ -145,7 +145,7 @@
             "user_101255"
         ],
         "attempts": 3,
-        "blocked": true
+        "blocked": false
     },
     {
         "id": "user_1050zz",
@@ -372,7 +372,7 @@
         "id_links": [],
         "saldo": "0,00",
         "attempts": 3,
-        "blocked": true
+        "blocked": false
     },
     {
         "id": "user_111111",
