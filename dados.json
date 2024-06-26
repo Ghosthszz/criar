@@ -353,17 +353,19 @@
         ],
         "saldo": "0,00"
     },
-    {
-        "id": "user_00000",
-        "email": "Teste",
-        "name": "Blk",
-        "password": "1020z",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "TESTE",
-        "cupom": "NULL",
-        "expirationDate": "2024-06-03T00:00:00",
-        "id_links": [],
-        "saldo": "0,00"
-    }
+  {
+    "id": "user_00000",
+    "email": "Teste",
+    "name": "Blk",
+    "password": "1020z",
+    "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+    "active": true,
+    "cookieValue": "TESTE",
+    "cupom": "NULL",
+    "expirationDate": "2024-06-03T00:00:00",
+    "id_links": [],
+    "saldo": "0,00",
+    "attempts": 0,
+    "blocked": false
+  }
 ]
