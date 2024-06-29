@@ -7,6 +7,7 @@
     "cookieValue": "permission=ghosthszz"
   },
   {
+    "id": "user_90000",
     "email": "Cleiton",
     "password": "0509",
     "redirectUrl": "frontend/paginas/users/Cleiton.html",
