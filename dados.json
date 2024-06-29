@@ -420,5 +420,20 @@
             "1"
         ],
         "saldo": "0,00"
+    },
+    {
+        "id": "user_2",
+        "email": "Bradesco",
+        "name": "Gustavo ",
+        "password": "10",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "bradesco",
+        "cupom": "NULL",
+        "expirationDate": "2024-06-13T00:00:00",
+        "id_links": [
+            "2"
+        ],
+        "saldo": "0,00"
     }
 ]
