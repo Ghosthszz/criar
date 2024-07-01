@@ -11,7 +11,7 @@
         "email": "Cleiton",
         "password": "0509",
         "redirectUrl": "frontend/paginas/users/Cleiton.html",
-        "active": true,
+        "active": false,
         "cookieValue": "permission=cleiton"
     },
     {
