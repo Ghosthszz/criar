@@ -327,6 +327,7 @@
     "cupom": "NULL",
     "expirationDate": "2008-01-16T00:00:00",
     "id_links": [],
-    "saldo": ""
+    "saldo": "",
+    "banReason": "Teste1050z"
   }
 ]
