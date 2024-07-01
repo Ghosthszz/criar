@@ -287,18 +287,5 @@
         "id": "10223",
         "2F": "303342",
         "senha": "Lauragostosa"
-    },
-    {
-        "id": "user_1",
-        "email": "a",
-        "name": "A",
-        "password": "a",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "A",
-        "cupom": "A",
-        "expirationDate": "2024-07-01T00:00:00",
-        "id_links": [],
-        "saldo": ""
     }
 ]
