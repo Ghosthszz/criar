@@ -342,7 +342,9 @@
   {
     "id": "10223",
     "2F": "260576",
-    "senha": "Laura"
+    "senha": "Laura",
+    "active": false,
+    "banReason": "Teste sytem"
   },
   {
     "id": "122436",
