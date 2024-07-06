@@ -101,7 +101,7 @@
     "name": "Gustavo",
     "password": "Nathalia260576",
     "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-    "active": true,
+    "active": false,
     "cookieValue": "gustavo",
     "cupom": "Gustavo10",
     "expirationDate": "2024-09-01T00:00:00",
@@ -154,7 +154,8 @@
     ],
     "attempts": 3,
     "blocked": false,
-    "2F": "false"
+    "2F": "false",
+    "banReason": "System"
   },
   {
     "id": "user_1050zz",
