@@ -285,7 +285,7 @@
     "name": "Denilson",
     "password": "Larissa",
     "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-    "active": false,
+    "active": true,
     "cookieValue": "neto",
     "cupom": "NULL",
     "expirationDate": "2024-06-04T00:00:00",
