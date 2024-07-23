@@ -357,49 +357,5 @@
         "friends": [
             "user_10223"
         ]
-    },
-    {
-        "id": "90909090",
-        "2F": "124578",
-        "senha": "vitorgay"
-    },
-    {
-        "id": "user_8080zz",
-        "email": "Send",
-        "name": "SEND",
-        "password": "TESTE",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "send",
-        "cupom": "NULL",
-        "expirationDate": "2008-01-16T00:00:00",
-        "id_links": [],
-        "saldo": "R$NaN"
-    },
-    {
-        "id": "user_0101010010101",
-        "email": "b",
-        "name": "B",
-        "password": "b",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "0000",
-        "cupom": "000",
-        "expirationDate": "2024-07-23T00:00:00",
-        "id_links": [],
-        "saldo": "R$0,00"
-    },
-    {
-        "id": "user_opaa",
-        "email": "z",
-        "name": "saaa",
-        "password": "sa",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "w",
-        "cupom": "NULL",
-        "expirationDate": "T00:00:00",
-        "id_links": [],
-        "saldo": ""
     }
 ]
