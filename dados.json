@@ -374,5 +374,20 @@
         "expirationDate": "2008-01-16T00:00:00",
         "id_links": [],
         "saldo": "69,98"
+    },
+    {
+        "id": "user_00",
+        "email": "teste",
+        "name": "Thiery",
+        "password": "109011",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "NULL",
+        "cupom": "NULL",
+        "expirationDate": "2008-01-16T00:00:00",
+        "id_links": [
+            "32"
+        ],
+        "saldo": "69,98"
     }
 ]
