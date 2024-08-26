@@ -403,7 +403,9 @@
     "cookieValue": "NULL",
     "cupom": "NULL",
     "expirationDate": "2008-01-16T00:00:00",
-    "id_links": [],
+    "id_links": [
+      "fb"
+    ],
     "saldo": "69,98",
     "friends": [
       "user_10223"
