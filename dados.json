@@ -441,20 +441,5 @@
       "user_104022",
       "user_520332"
     ]
-  },
-  {
-    "id": "user_9",
-    "email": "C3",
-    "name": "Center 3 Multimarcas",
-    "password": "rafa",
-    "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-    "active": true,
-    "cookieValue": "c3",
-    "cupom": "Center10",
-    "expirationDate": "2024-10-01T00:00:00",
-    "id_links": [
-      "16"
-    ],
-    "saldo": "0,00"
   }
 ]
