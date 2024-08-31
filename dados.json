@@ -448,7 +448,7 @@
     "name": "Center 3 Multimarcas",
     "password": "milton",
     "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-    "active": true,
+    "active": false,
     "cookieValue": "c3",
     "cupom": "Center10",
     "expirationDate": "2024-10-01T00:00:00",
