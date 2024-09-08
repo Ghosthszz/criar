@@ -443,31 +443,5 @@
             "user_104022",
             "user_520332"
         ]
-    },
-    {
-        "id": "user_68554",
-        "email": "Junior",
-        "name": "Alexandre",
-        "password": "Alex",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "junior",
-        "cupom": "Junior10",
-        "expirationDate": "2024-10-07T00:00:00",
-        "id_links": [],
-        "saldo": "4,00"
-    },
-    {
-        "id": "user_68554",
-        "email": "Junior",
-        "name": "Alexandre",
-        "password": "Alex",
-        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-        "active": true,
-        "cookieValue": "junior",
-        "cupom": "Junior10",
-        "expirationDate": "2024-10-07T00:00:00",
-        "id_links": [],
-        "saldo": "129,32"
     }
 ]
