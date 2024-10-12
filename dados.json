@@ -491,8 +491,28 @@
         ],
         "saldo": "0,00"
     },
-
-
-{"layout":"off"}
-
+    {
+        "layout": "off"
+    },
+    {
+        "id": "user_50879",
+        "email": "Marcos",
+        "name": "Marcos",
+        "password": "Marcos10",
+        "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
+        "active": true,
+        "cookieValue": "marcos",
+        "cupom": "NULL",
+        "expirationDate": "2024-10-10T00:00:00",
+        "id_links": [
+            "1",
+            "4",
+            "7",
+            "8",
+            "11",
+            "12",
+            "16"
+        ],
+        "saldo": "0,00"
+    }
 ]
