@@ -177,7 +177,8 @@
       "43",
       "44",
       "46",
-      "fb"
+      "fb",
+      "37"
     ],
     "code": "1022",
     "saldo": "R$254,53",
@@ -195,7 +196,8 @@
     "attempts": 3,
     "blocked": false,
     "2F": "false",
-    "banReason": "System"
+    "banReason": "System",
+    "ntl": true
   },
   {
     "id": "user_1050zz",
