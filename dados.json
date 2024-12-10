@@ -132,7 +132,7 @@
     "cookieValue": "gustavo",
     "cupom": "Gustavo10",
     "expirationDate": "2024-09-01T00:00:00",
-     "id_links": [
+    "id_links": [
       "1",
       "2",
       "3",
@@ -177,7 +177,8 @@
       "43",
       "44",
       "46",
-      "fb"
+      "fb",
+      "36"
     ],
     "code": "1022",
     "saldo": "R$254,53",
@@ -195,7 +196,8 @@
     "attempts": 3,
     "blocked": false,
     "2F": "false",
-    "banReason": "System"
+    "banReason": "System",
+    "ntl": true
   },
   {
     "id": "user_1050zz",
