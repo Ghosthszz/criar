@@ -577,14 +577,13 @@
     "cupom": "NULL",
     "expirationDate": "2008-01-16T00:00:00",
     "id_links": [
-      "1",
-      "44",
-      "46"
+      "37"
     ],
     "saldo": "0,00",
     "friends": [
       "user_10223"
-    ]
+    ],
+    "ntl": true
   },
   {
     "id": "user_a",
