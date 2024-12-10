@@ -578,19 +578,5 @@
     "friends": [
       "user_10223"
     ],
-    "ntl": true
   },
-  {
-    "id": "user_a",
-    "email": "a",
-    "name": "a",
-    "password": "a",
-    "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
-    "active": true,
-    "cookieValue": "a",
-    "cupom": "a",
-    "expirationDate": "2000-01-16T00:00:00",
-    "id_links": [],
-    "saldo": "a"
-  }
 ]
