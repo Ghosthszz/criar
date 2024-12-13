@@ -40,9 +40,7 @@
       "44",
       "7",
       "8",
-      "fb",
-      "37",
-      "35"
+      "fb"
     ],
     "saldo": "R$0,00",
     "status": "online",
@@ -57,8 +55,7 @@
       "user_101255"
     ],
     "attempts": 0,
-    "blocked": false,
-    "ntl": true
+    "blocked": false
   },
   {
     "id": "user_104022",
