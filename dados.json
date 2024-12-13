@@ -40,8 +40,7 @@
       "44",
       "7",
       "8",
-      "fb",
-      "50"
+      "fb"
     ],
     "saldo": "R$5,00",
     "status": "online",
@@ -56,8 +55,7 @@
       "user_101255"
     ],
     "attempts": 0,
-    "blocked": false,
-    "ntl": true
+    "blocked": false
   },
   {
     "id": "user_104022",
@@ -179,8 +177,7 @@
       "43",
       "44",
       "46",
-      "fb",
-      "36"
+      "fb"
     ],
     "code": "1022",
     "saldo": "R$249,53",
@@ -198,8 +195,7 @@
     "attempts": 3,
     "blocked": false,
     "2F": "false",
-    "banReason": "System",
-    "ntl": true
+    "banReason": "System"
   },
   {
     "id": "user_1050zz",
