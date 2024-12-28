@@ -585,7 +585,7 @@
     "id": "user_0000000",
     "email": "Nathan",
     "name": "Nathan",
-    "password": "12345678",
+    "password": "0711",
     "redirectUrl": "/Vendas/frontend/paginas/users/acess.html",
     "active": true,
     "cookieValue": "nathan",
