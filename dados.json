@@ -60,7 +60,7 @@
             "user_11"
         ],
         "attempts": 0,
-        "blocked": false
+        "blocked": true
     },
     {
         "id": "user_104022",
