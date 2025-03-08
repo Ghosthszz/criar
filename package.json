@@ -1,0 +1,12 @@
+{
+  "name": "websocket-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
